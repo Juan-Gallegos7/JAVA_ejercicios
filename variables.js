@@ -26,9 +26,41 @@
 /////////////////////////////////////////////////////////////////////////////
 
 /**Declarar 10 variables de cada tipo de dato */
-let numeroEntero = 42;           // Número entero (number)
-let numeroDecimal = 3.14;        // Número decimal
-let cadena = "Hola";      // Cadena de texto (string)
+let numeroEntero1 = 42;           // Número entero (number)
+let numeroEntero21 = 55;           
+let numeroEntero3 = 7456;           
+let numeroEntero4 = 121;           
+let numeroEntero5 = 45;           
+let numeroEntero6 = 74;           
+let numeroEntero7 = 777;           
+let numeroEntero8 = 222;           
+let numeroEntero9 = 485;           
+let numeroEntero10 = 412;           
+
+let numeroDecimal1 = 3.14;        // Número decimal
+let numeroDecimal2 = 3.1416;      
+let numeroDecimal3 = 4.15;      
+let numeroDecimal4 = 8.114;      
+let numeroDecimal5 = 8.115;      
+let numeroDecimal6 = 7.1156;      
+let numeroDecimal7 = 6.141;      
+let numeroDecimal8 = 154.1;      
+let numeroDecimal9 = 45.236;      
+let numeroDecimal10 = 122.2;      
+
+let cadena1 = "Hola";      // Cadena de texto (string)
+let cadena2 = "Que tal, como le va";      
+let cadena3 = "En el umbral de mi estancia";      
+let cadena4 = "Del rio al mar";      
+let cadena5 = "Juntos nos encontramos";      
+let cadena6 = "En el espacio";      
+let cadena7 = "Las energias del universo";      
+let cadena8 = "Un gran poder";      
+let cadena9 = "con lleva";      
+let cadena10 = "una gran resposabilidad";      
+
+
+
 let esVerdadero = true;          // verdadero (booleano)
 let esFalso = false;             // falso (booleano)
 
@@ -95,22 +127,6 @@ console.log("Texto convertido a número:", textoConvertido);
 console.log("Booleano convertido a número:", booleanoConvertido);
 console.log("Booleano convertido a número:", booleanoConvertido2);
 console.log("Booleano convertido a string:", booleanoConvertido3);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
